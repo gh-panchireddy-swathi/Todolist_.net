@@ -4,7 +4,7 @@ This is a  **Todo List application** built using:
 
 - 🔧 ASP.NET Core Web API (Backend)
 - 💾 SQL Server + Entity Framework Core
-- 🔐 Authentication & Authorization with Identity + JWT
+- 🔐 Authentication  with Identity + JWT
 - 🌐 Next.js (Frontend) + Tailwind CSS + ShadCN UI
 
 ---
